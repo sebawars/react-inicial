@@ -4,7 +4,7 @@ services:
   badges:
     build:
       context: .
-      dockerfile: /Dockerfile
+      dockerfile: Dockerfile
     image: "badges_image"
     container_name: "badges_container"
     ports:
