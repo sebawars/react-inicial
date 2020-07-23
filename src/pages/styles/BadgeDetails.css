@@ -18,3 +18,30 @@
   justify-content: flex-end;
   margin-bottom: 1rem;
 }
+
+
+@media (max-width: 845px){
+  .col{
+    text-align: center;
+    padding-bottom: 1em;
+  }
+
+  .col-6{
+    text-align: center;
+    padding-bottom: 1em;
+  }
+
+  .BadgeDetails__hero-attendant-name{
+    margin: auto;
+  }
+  
+}
+
+
+@media (max-width: 845px){
+  .row{
+    display: block;
+    text-align: center;
+  }
+  
+}

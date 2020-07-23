@@ -13,3 +13,12 @@
 .BadgeEdit__hero-image {
   max-height: 100px;
 }
+
+@media (max-width: 845px){
+
+  .col-6{
+    margin: auto;
+    max-width: initial;
+  }
+  
+}

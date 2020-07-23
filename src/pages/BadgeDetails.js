@@ -27,7 +27,7 @@ function BadgeDetails(props) {
       </div>
 
       <div className="container">
-        <div className="row">
+        <div className="BadgeDetails__details row">
           <div className="col">
             <Badge
               firstName={badge.firstName}
@@ -37,7 +37,7 @@ function BadgeDetails(props) {
               jobTitle={badge.jobTitle}
             />
           </div>
-          <div className="col">
+          <div className="BadgeDetails__actions col">
             <h2>Actions</h2>
             <div>
               <div>
