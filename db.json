@@ -1,0 +1,49 @@
+{
+    "badges": [
+        {
+            "id": "2dabe38a-ed04-4229-929b-8018b2078038",
+            "firstName": "Jaida",
+            "lastName": "Crooks",
+            "email": "Wiley.Rodriguez@hotmail.com",
+            "jobTitle": "Legacy Marketing Director",
+            "twitter": "JaidaCrooks17484-8234",
+            "avatarUrl": "https://www.gravatar.com/avatar/f79bd168c850d2ab8348a2cb894b679d?d=identicon"
+        },
+        {
+            "id": "d9cc9904-c651-4add-9ac0-cdfba7d1407f",
+            "firstName": "Geovany",
+            "lastName": "King",
+            "email": "Breanna_Sporer@hotmail.com",
+            "jobTitle": "Human Interactions Director",
+            "twitter": "GeovanyKing11787-1698",
+            "avatarUrl": "https://www.gravatar.com/avatar/60b4fa4830585219c547d273a8056374?d=identicon"
+        },
+        {
+            "id": "5cd3ea13-91d1-4c9c-ab2c-0bdcd45d96f3",
+            "firstName": "John",
+            "lastName": "Larkin",
+            "email": "Easter.Leuschke@hotmail.com",
+            "jobTitle": "Internal Security Assistant",
+            "twitter": "JohnLarkin95178",
+            "avatarUrl": "https://www.gravatar.com/avatar/9edb693d185c30ab05fd5e057ea1d637?d=identicon"
+        },
+        {
+            "id": "1bebbe06-f0b0-48a6-958e-c4b350e44325",
+            "firstName": "Alayna",
+            "lastName": "Grant",
+            "email": "Isabelle56@gmail.com",
+            "jobTitle": "Dynamic Division Technician",
+            "twitter": "AlaynaGrant48629-6099",
+            "avatarUrl": "https://www.gravatar.com/avatar/1944de9f995a81aec630020f4afe6497?d=identicon"
+        },
+        {
+            "id": "952d46a3-0aba-4632-a366-624ca21179a0",
+            "firstName": "Laurine",
+            "lastName": "DuBuque",
+            "email": "Gerson_Hodkiewicz@hotmail.com",
+            "jobTitle": "Chief Mobility Specialist",
+            "twitter": "LaurineDuBuque29713-8721",
+            "avatarUrl": "https://www.gravatar.com/avatar/27fc22636afcd0c38e7cfc8509bd4540?d=identicon"
+        }
+    ]
+}

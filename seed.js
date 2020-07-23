@@ -2,6 +2,10 @@ const fs = require('fs');
 const path = require('path');
 const faker = require('faker');
 const md5 = require('md5');
+const jsonServer = require('json-server')
+const router = jsonServer.router('db.json')
+const server = jsonServer.create()
+const middlewares = jsonServer.defaults()
 
 function createBadges(limit = 5) {
   const result = [];
@@ -34,6 +38,14 @@ function main() {
     path.resolve(__dirname, 'db.json'),
     JSON.stringify(data, null, 4)
   );
+
+  console.log('Main');
 }
 
 main();
+
+server.use(middlewares)
+server.use(router)
+server.listen(3001, () => {
+  console.log('JSON Server is running')
+})
