@@ -9,3 +9,4 @@
 * React Router
 * Hooks
 * Ciclo de vida de componentes
+* Api: fetch hacia json-server
