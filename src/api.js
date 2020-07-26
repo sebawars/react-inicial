@@ -1,4 +1,4 @@
-const BASE_URL = 'http://ec2-18-212-103-253.compute-1.amazonaws.com:3001';
+const BASE_URL = 'http://ec2-35-153-167-17.compute-1.amazonaws.com:3001';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
